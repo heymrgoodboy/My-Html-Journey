@@ -1,0 +1,19 @@
+.red-image {
+    color: red ;
+    font-color: red ;
+
+    
+}
+.blue-image{
+    color: blue ;
+}
+.orange-image{
+    color: orange;
+}
+.yellow-image{
+    color: yellow ;
+}
+.img{
+    width: 200px;
+    height: 200px;
+}
